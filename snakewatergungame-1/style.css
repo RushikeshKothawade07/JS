@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #f1f5e1;
+  font-size: 25px;
+  font-family: monospace;
+  text-align: center;
+}
+.head{
+  background-color: #fbeef0;
+  border-radius: 25px;
+  font-weight: bold;
+  font-style: italic;
+  border: 2px solid red;
+  
+}
