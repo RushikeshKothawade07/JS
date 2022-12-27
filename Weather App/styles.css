@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.box{
+    background-color: azure;
+    margin: 0px 50px;
+    margin-top: 60px;
+    border: 1px solid blue;
+    border-radius: 8px;
+    border-style: groove;
+}
+#img{
+    border-radius: 50%;
+    background-color: black;
+}
