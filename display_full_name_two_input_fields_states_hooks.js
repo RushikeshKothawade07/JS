@@ -2,8 +2,9 @@ import React, { useState } from "react";
 
 const App = () => {
   const [name, setName] = useState();
+    const [lastName, setLastName] = useState();
   const [fullName, setFullName] = useState();
-  const [lastName, setLastName] = useState();
+
   const [lastNamenew, setLastNamenew] = useState();
 
   const inputEvent = (event) => {
